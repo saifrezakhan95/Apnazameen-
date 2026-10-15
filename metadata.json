@@ -1,0 +1,8 @@
+{
+  "name": "BhoomiLocal - Local Real Estate & Land Marketplace",
+  "description": "A trusted local real estate marketplace for residential plots, commercial land, and agricultural properties with verified listings, direct WhatsApp enquiry, and site visit booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
